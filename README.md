@@ -21,4 +21,4 @@ npm start
 http://localhost:3000
 ```
 
-Или просо посмотрете развернутый проект на Github Pages https://egor-gaidiuchenko.github.io
+Или просо посмотрете развернутый проект на Github Pages https://egor-gaidiuchenko.github.io/photoPoint
